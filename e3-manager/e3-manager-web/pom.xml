@@ -9,7 +9,6 @@
 	<artifactId>e3-manager-web</artifactId>
 	<packaging>war</packaging>
 	<name>e3-manager-web</name>
-	<url>http://maven.apache.org</url>
 
 	<dependencies>
 		<dependency>
